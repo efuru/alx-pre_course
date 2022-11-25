@@ -1,1 +1,1 @@
-my new readme
+my first directory from my repo!
